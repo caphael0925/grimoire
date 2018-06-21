@@ -1,0 +1,9 @@
+project
+.idea
+devel-lib
+data
+metastore_db
+logs
+spark-warehouse
+plan
+model
